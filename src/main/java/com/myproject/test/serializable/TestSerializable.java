@@ -18,6 +18,7 @@ public class TestSerializable {
         serializable(human);
         System.out.println(human);
         convertSerializable(human);
+        System.out.println();
     }
 
     private static void serializable(Human human){
